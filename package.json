@@ -1,0 +1,28 @@
+{
+  "name": "budgeting-app-project",
+  "version": "1.0.0",
+  "engines": {
+    "node": "17.2.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchen6283/budgeting-app-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchen6283/budgeting-app-project/issues"
+  },
+  "homepage": "https://github.com/lchen6283/budgeting-app-project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
